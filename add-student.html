@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Add Student - Academic Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <h2>Student Academic Portal</h2>
+    <nav>
+      <a href="index.html">Dashboard</a>
+      <a href="students.html">Students</a>
+      <a class="active" href="add-student.html">Add Student</a>
+    </nav>
+  </header>
+
+  <main class="container narrow">
+    <div class="page-header"><div><h1>Add Student</h1><p>Enter the student's academic information.</p></div></div>
+
+    <form id="addStudentForm" class="form-card">
+      <label>Student Name</label>
+      <input name="name" type="text" required>
+
+      <label>Email</label>
+      <input name="email" type="email" required>
+
+      <label>Phone</label>
+      <input name="phone" type="text" required>
+
+      <label>Course</label>
+      <select name="course" required>
+        <option value="">Select Course</option>
+        <option>B.Tech</option>
+        <option>BCA</option>
+        <option>MCA</option>
+        <option>BBA</option>
+        <option>MBA</option>
+      </select>
+
+      <label>Semester</label>
+      <input name="semester" type="number" min="1" max="12" required>
+
+      <label>CGPA</label>
+      <input name="cgpa" type="number" min="0" max="10" step="0.01" required>
+
+      <div class="form-actions">
+        <button class="btn" type="submit">Add Student</button>
+        <a class="btn secondary" href="students.html">Cancel</a>
+      </div>
+    </form>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
