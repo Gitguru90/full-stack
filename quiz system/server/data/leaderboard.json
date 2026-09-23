@@ -1,0 +1,35 @@
+[
+  {
+    "id": "seed-1",
+    "name": "Alex Tech",
+    "avatar": "⚡",
+    "score": 1250,
+    "accuracy": 90,
+    "timeSpent": 48,
+    "category": "Science & Nature",
+    "difficulty": "medium",
+    "date": "2026-09-22T14:30:00.000Z"
+  },
+  {
+    "id": "seed-2",
+    "name": "Sara Code",
+    "avatar": "🚀",
+    "score": 1100,
+    "accuracy": 80,
+    "timeSpent": 55,
+    "category": "Computers",
+    "difficulty": "hard",
+    "date": "2026-09-22T16:15:00.000Z"
+  },
+  {
+    "id": "seed-3",
+    "name": "Jordan Trivia",
+    "avatar": "🧠",
+    "score": 950,
+    "accuracy": 70,
+    "timeSpent": 62,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "date": "2026-09-23T01:20:00.000Z"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "timed-quiz-lab",
+  "version": "1.0.0",
+  "description": "Full Stack Lab Experiment 2 - Timed Interactive Quiz App with Local Storage, Leaderboard, and Async Public REST API",
+  "main": "server/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js"
+  },
+  "keywords": [
+    "quiz",
+    "express",
+    "async-api",
+    "localstorage",
+    "leaderboard",
+    "lab-experiment"
+  ],
+  "author": "Antigravity AI Lab",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
