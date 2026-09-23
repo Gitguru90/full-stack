@@ -1,0 +1,201 @@
+# Full Stack Web Development – MITS
+
+A collection of **Full Stack Web Development laboratory assignments and projects** completed as part of my academic coursework at **Madhav Institute of Technology & Science (MITS), Gwalior**.
+
+This repository contains practical implementations using **HTML, CSS, JavaScript, and modern web development concepts**.
+
+---
+
+## 📌 Repository Overview
+
+The repository is organized into multiple assignments and mini-projects developed during the Full Stack Web Development course.
+
+### Projects Included
+
+| Project                     | Description                                                |
+| --------------------------- | ---------------------------------------------------------- |
+| **MITS Website**            | A multi-page website inspired by the official MITS website |
+| **Student Academic Portal** | A student academic portal with frontend CRUD functionality |
+| **Quiz System**             | A web-based quiz application                               |
+| **First**                   | Initial web development exercises and assignments          |
+
+---
+
+## 🛠️ Technologies Used
+
+* **HTML5** – Website structure and semantic markup
+* **CSS3** – Styling, layouts, responsiveness and UI design
+* **JavaScript** – Dynamic functionality and DOM manipulation
+* **REST API concepts** – API integration and CRUD operations
+* **Git & GitHub** – Version control and project management
+
+---
+
+## 📂 Repository Structure
+
+```text
+Full-Stack-Web-Dev-MITS/
+│
+├── First/
+│
+├── Full-Stack-Web-Dev-MITS-Website/
+│   └── Full-Stack-Web-Dev-MITS/
+│
+├── Quiz System/
+│
+├── student-academic-portal/
+│
+└── README.md
+```
+
+---
+
+## 🌐 MITS Website
+
+The MITS Website project is a multi-page educational institute website created using frontend web technologies.
+
+### Features
+
+* Home page
+* About section
+* Academics
+* Admissions
+* Placements
+* Research
+* Navigation between multiple pages
+* Responsive and structured webpage design
+* Images and visual elements
+* Reusable CSS styling
+
+---
+
+## 🎓 Student Academic Portal
+
+The Student Academic Portal is a frontend-based academic management interface designed for students.
+
+### Features
+
+* Student information management
+* Academic information
+* Add student records
+* View student records
+* Update student records
+* Delete student records
+* Dynamic UI using JavaScript
+* CRUD-based functionality
+
+---
+
+## 📝 Quiz System
+
+The Quiz System is a browser-based application designed to conduct interactive quizzes.
+
+### Features
+
+* Multiple-choice questions
+* Interactive question interface
+* Answer selection
+* Score calculation
+* JavaScript-based functionality
+* User-friendly interface
+
+---
+
+## 🎯 Objectives
+
+The main objectives of this repository are:
+
+* To understand the fundamentals of web development
+* To develop responsive and interactive web pages
+* To practice HTML, CSS and JavaScript
+* To implement CRUD operations
+* To understand frontend application structure
+* To gain practical experience through academic projects
+* To use Git and GitHub for version control
+
+---
+
+## 🚀 How to Run
+
+Most projects in this repository are frontend-based and can be run directly in a web browser.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Anushreemazumdar/Full-Stack-Web-Dev-MITS.git
+```
+
+### 2. Open the project
+
+```bash
+cd Full-Stack-Web-Dev-MITS
+```
+
+### 3. Run the project
+
+Open the required project's `index.html` file in a web browser.
+
+You can also use **Visual Studio Code with the Live Server extension** for a better development experience.
+
+---
+
+## 💻 Development Tools
+
+* Visual Studio Code
+* Google Chrome
+* Git
+* GitHub
+* Live Server
+
+---
+
+## 📚 Learning Outcomes
+
+Through these assignments and projects, the following concepts were practiced:
+
+* Web page structure using HTML
+* CSS styling and responsive layouts
+* JavaScript programming
+* DOM manipulation
+* Event handling
+* Form handling
+* CRUD operations
+* Multi-page website development
+* Basic API integration concepts
+* Git version control
+* GitHub repository management
+
+---
+
+## 🔄 Version Control
+
+Git is used to maintain the development history of the projects.
+
+Different commits allow previous versions of the code to be preserved while new features and improvements are added.
+
+---
+
+## 👩‍💻 Author
+
+**Anushree Mazumdar**
+
+Student – Madhav Institute of Technology & Science (MITS), Gwalior
+
+---
+
+## 🔗 Repository
+
+**GitHub:**
+https://github.com/Anushreemazumdar/Full-Stack-Web-Dev-MITS
+
+---
+
+## ⭐ Acknowledgement
+
+This repository was developed as part of the **Full Stack Web Development** academic coursework and laboratory assignments at **MITS, Gwalior**.
+
+---
+
+## 📄 License
+
+This repository is intended primarily for **educational and academic purposes**.

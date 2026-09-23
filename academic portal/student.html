@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Students - Academic Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <h2>Student Academic Portal</h2>
+    <nav>
+      <a href="index.html">Dashboard</a>
+      <a class="active" href="students.html">Students</a>
+      <a href="add-student.html">Add Student</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <div class="page-header">
+      <div>
+        <h1>Student Records</h1>
+        <p>View, edit and delete student information.</p>
+      </div>
+      <a class="btn" href="add-student.html">+ Add Student</a>
+    </div>
+
+    <input id="searchInput" class="search" type="text" placeholder="Search by student name...">
+
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th><th>Name</th><th>Email</th><th>Phone</th><th>City</th><th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="studentTableBody">
+          <tr><td colspan="6" class="center">Loading...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
